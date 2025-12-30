@@ -1,11 +1,11 @@
-# QR_Code-project
+# QR_Code-Making_project
 #QR_Code project , Its about making QR for payment app like google_Pay, Paytm, Phone_pay
 
 
 import qrcode
 from PIL import Image
 
-#Taking UPI IS as an input
+#Taking UPI Id as an input
 upi_id=input("Enter your UPI ID = ")
 
 
